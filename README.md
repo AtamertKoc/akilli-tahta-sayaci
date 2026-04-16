@@ -14,10 +14,12 @@ Pardus ve diğer akıllı tahta sistemleri için geliştirilmiş, dokunmatik uyu
 2. Sağ tıklayıp "Birlikte Aç > Python3" seçeneğini kullanın veya terminale şu komutu yazın:
    ```bash
    python3 main.py
-Kodu dikkatli kullanın.
+
 Not: Eğer kütüphane hatası alırsanız: sudo apt install python3-tk komutunu çalıştırın.
+
 📂 Masaüstüne Kısayol Ekleme
 Öğretmenlerin hızlıca açabilmesi için masaüstünde bir Başlatıcı oluşturun ve komut kısmına dosya yolunu ekleyin.
+
 🛠️ Kullanılan Teknolojiler
 Python 3
 Tkinter (Arayüz)
